@@ -8,7 +8,16 @@
     padding: 24px;
 }
 
+.rodape_secoes {
+    display: none;
+}
+
 @media screen and (min-width: 1024px) {
+
+    .rodape_secoes {
+        display: block;
+    }
+
     .rodape__assinatura {
         display: flex;
         justify-content: space-around;
