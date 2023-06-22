@@ -110,3 +110,21 @@
     }
 
 }
+
+@media screen and (min-width: 1728px) {
+    .container__lancamento{
+        display: flex;
+        align-items: center;
+        margin: 2em 0 8em 0;
+    }
+
+    .swiper {
+        width: 45%;
+    }
+
+    .swiper-pagination {
+        margin: 1em 0 1em 0;
+    }
+
+}
+

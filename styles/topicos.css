@@ -45,3 +45,22 @@
         padding: .5em;
     }
 }
+
+@media screen and (min-width: 1728px){
+
+    .topicos {
+        padding: 2em 0 5em 0;
+    }
+
+    .topicos__lista-divisao {
+        display: flex;
+        justify-content: center;
+        width: auto;
+    }
+
+    .topicos__lista{
+        width: 40vw;
+        text-align: center;
+    }
+
+}

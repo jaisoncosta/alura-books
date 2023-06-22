@@ -58,3 +58,10 @@
         padding-left: .5em;
     }
 }
+
+@media screen and (min-width: 1728px){
+    .rodape_secoes {
+        border-left: 1px solid var(--cinza-claro);
+        padding: 1em;
+    }
+}
